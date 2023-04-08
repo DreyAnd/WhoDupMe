@@ -10,6 +10,8 @@
 * This tool serves as a little utility which allows a bug bounty hunter to **discover who gave him a duplicate** on his HackerOne report.
 * As a result he *may* get in contact with the hunter or eventually hire a hitman on him! (for legal reasons this is a joke)
 
+
+Note: For this tool to work the report you got a duplicate on has to be in *resolved* state.
 ## Installation:
 
 #### From source:
@@ -75,3 +77,5 @@ Help Options:
 ## TODO:
 
 * Add concurrency for more speed.
+* Add the possibility to automatically get all duplicated report IDs for a program and dump info for all.
+* Add a debug `-v` mode
