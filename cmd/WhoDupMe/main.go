@@ -24,6 +24,7 @@ func banner() {
 
 	fmt.Println(banner)
 }
+
 func main() {
 	banner()                                                                          // Print the tool banner
 	opts := args.GetArgs()                                                            // Handle Command-line arguments
