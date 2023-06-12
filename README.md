@@ -78,6 +78,6 @@ Help Options:
 
 ## TODO:
 
-* Add concurrency for more speed.
+* ~~Add concurrency for more speed.~~
 * Add the possibility to automatically get all duplicated report IDs for a program and dump info for all.
 * Add a debug `-v` mode
